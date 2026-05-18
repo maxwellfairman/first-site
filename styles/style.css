@@ -45,6 +45,7 @@ img{
   margin: 0 auto;
   /*img doesn't normally accepted margins so do the display:block, 
   0 auto means no vertical margin and automatic horizontal margin*/
+  width: 100%;
   max-width: 100%;
 }
 button{
